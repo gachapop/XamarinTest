@@ -10,6 +10,7 @@ namespace ConsoleApp1
 	{
 		static void Main(string[] args)
 		{
+			// hello worldを表示
 			Console.WriteLine("hello world ");
 		}
 	}
